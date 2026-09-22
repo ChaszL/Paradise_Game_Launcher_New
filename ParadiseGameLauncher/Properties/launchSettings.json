@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ParadiseGameLauncher (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ParadiseGameLauncher (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
